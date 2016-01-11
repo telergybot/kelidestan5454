@@ -229,22 +229,22 @@ function create_config( )
     "feedback",
     "all"
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {76303145,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {90312082},--Realms Id
+    realm = {97509752},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     TeleDark Anti Spam Bot v2.1
 
-  📢 Channel : @TeleDarkCh
-  👤 Admin : @AmirDark
+  📢 Channel : @team1984
+  👤 Admin : @mr_flat
 
   🙏 Special Thanks :
 
-        @mehrab_wj
-        @PokerFace_Dev
+        @amirdark
+        @shahawwb
+        @thisisarman
   
-  Checkout yon.ir/yNk0
 ]],
     help_text = [[
     
@@ -355,7 +355,7 @@ function create_config( )
 💬 راهنمای ربات (همین متن)
 !help
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 ⚠️  شما ميتوانيد از ! و / استفاده کنيد. 
 
@@ -366,7 +366,7 @@ function create_config( )
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-   👿 TeleDark By @AmirDark 👿
+   👿 1984 by @mr_flat 👿
    
 ]]
 
